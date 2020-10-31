@@ -6,5 +6,7 @@
   <HSS.Default>游戏默认</HSS.Default>
   <HSS.HandH>显示帽子和发型</HSS.HandH>
   <HSS.Hide>隐藏</HSS.Hide>
-
+  <HSS.ShowDrafted>全显示</HSS.ShowDrafted>
+  <HSS.HatsOnlyDrafted>仅显示帽子</HSS.HatsOnlyDrafted>
+  <HSS.SettingDrafted>征召显示设置</HSS.SettingDrafted>
 </LanguageData>
